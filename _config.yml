@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website.
+title:            Mongol Library
+description:      A Mongolian Library System Based On DC.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://mongollibrary.github.io
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           md
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
-  email:          your@email.com
+  email:          mongollibrary@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
