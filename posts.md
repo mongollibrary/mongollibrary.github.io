@@ -1,7 +1,7 @@
 ---
 layout: post-index
-permalink: /posts/
-title: All Posts
-tagline: A List of Posts
+permalink: /blogs/
+title: All News
+tagline: A List of News
 tags: [blog]
 ---

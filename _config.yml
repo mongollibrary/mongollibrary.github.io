@@ -6,7 +6,7 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           md
+  name:           mler
   avatar:         bio-photo.jpg
   bio:            "I hope to build a free and open mongolian library."
   email:          mongollibrary@gmail.com
@@ -38,10 +38,10 @@ links:
   - title: About
     url: /about/
   - title: News
-    url: /posts/
-  - title: Down&Install
-    url: /theme-setup/
-  - title: Made Mistakes
+    url: /blogs/
+  - title: Download & Install
+    url: /download-install/
+  - title: Themed by Made Mistakes
     url: http://mademistakes.com
     external: true
 
