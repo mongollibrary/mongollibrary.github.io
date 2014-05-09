@@ -1,4 +1,4 @@
-title:            Mongol Library
+title:            Mongol Library Develop Centre
 description:      A Mongolian Library System Based On DC.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://mongollibrary.github.io
@@ -6,7 +6,7 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           mler
+  name:           dragonfly
   avatar:         bio-photo.jpg
   bio:            "I hope to build a free and open mongolian library."
   email:          mongollibrary@gmail.com
@@ -41,8 +41,8 @@ links:
     url: /blogs/
   - title: Download & Install
     url: /download-install/
-  - title: Themed by Made Mistakes
-    url: http://mademistakes.com
+  - title: Mongollirary
+    url: http://mongollibrary.org
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
