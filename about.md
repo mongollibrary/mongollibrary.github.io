@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: About Mongollibrary
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013

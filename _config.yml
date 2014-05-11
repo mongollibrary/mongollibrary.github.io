@@ -1,4 +1,4 @@
-title:            Mongol Library Develop Centre
+title:            MongolLibrary Dev.
 description:      A Mongolian Library System Based On DC.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://mongollibrary.github.io
@@ -6,7 +6,7 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           dragonfly
+  name:           DragonFly
   avatar:         bio-photo.jpg
   bio:            "I hope to build a free and open mongolian library."
   email:          mongollibrary@gmail.com
